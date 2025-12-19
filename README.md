@@ -1,6 +1,6 @@
 # AI Companion
 
-A terminal AI companion that I built using Python and the ChatOpenAI library
+A terminal AI companion that I built using Python, the ChatOpenAI library, and the OpenAI API
 
 ## Features
 
